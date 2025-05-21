@@ -10,7 +10,7 @@ We undertake methodological research in statistics and data science to shed ligh
 - Globalization  
 - The digital economy  
 
-We also publish ADB’s annual flagship **Key Indicators for Asia and the Pacific** and other data-driven knowledge products.
+We also publish ADB’s annual flagship [**Key Indicators for Asia and the Pacific**](https://www.adb.org/publications/series/key-indicators-for-asia-and-the-pacific) and other data-driven knowledge products.
 
 In addition, ERDD plays a key role in strengthening statistical capacity across the region, delivering workshops attended by more than **1,000 participants annually**.
 
